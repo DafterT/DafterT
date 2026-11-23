@@ -1,79 +1,39 @@
-<!--
-Profile README for github.com/DafterT
-Inspired by: https://habr.com/ru/articles/813399/
-Goal: informative + clean (no clutter).
--->
+### Привет, меня зовут Даниил 👋
 
-<div align="center">
+**Область интересов**: Встраиваемые системы, промышленная автоматизация, RISC-V, TinyML. 
 
-<h1>Daniil Simonovsky <sub><sup>(DafterT)</sup></sub></h1>
+**Резюме 📄**: [Симоновский Даниил — PDF](https://drive.google.com/file/d/1gjy88CJqaotstUtOlXqRVe1Caywi1j_F/view)
 
-<p>
-Embedded & industrial automation engineer → moving into <b>digital design / SoC verification</b> (SystemVerilog).
-</p>
+### Контакты 📬
 
-<p>
-<!-- small, calm badges -->
-<img alt="SystemVerilog" src="https://img.shields.io/badge/SystemVerilog-151515?style=flat-square&logoColor=white">
-<img alt="FPGA" src="https://img.shields.io/badge/FPGA-151515?style=flat-square&logoColor=white">
-<img alt="STM32" src="https://img.shields.io/badge/STM32-151515?style=flat-square&logoColor=white">
-<img alt="C/C++" src="https://img.shields.io/badge/C%2FC%2B%2B-151515?style=flat-square&logoColor=white">
-<img alt="Python" src="https://img.shields.io/badge/Python-151515?style=flat-square&logoColor=white">
-<img alt="Linux" src="https://img.shields.io/badge/Linux-151515?style=flat-square&logoColor=white">
-</p>
+- <img src="https://img.icons8.com/dusk/48/telegram-app.png" width="20" height="20" alt="Telegram"> **Telegram:** [@dafterplay](https://t.me/dafterplay)
+- <img src="https://img.icons8.com/dusk/48/github.png" width="20" height="20" alt="GitHub"> **GitHub:** [DafterT](https://github.com/DafterT)
+- <img src="https://img.icons8.com/?size=48&id=43221&format=png" width="20" height="20" alt="Почта" /> **Почта:** [niil2003@mail.ru](mailto:niil2003@mail.ru)
 
-</div>
+### Навыки 🛠️
+- **Языки**: C, Python, Verilog, ST
+- **Платформы**: STM32, AVR, МИК32, FPGA
+- **Протоколы и интерфейсы**: Modbus RTU, 1-Wire, I²C, SPI, RS-485, Ethernet, CAN
+- **Инструменты**: Git
 
----
+### Опыт работы 👔
+| Должность | Компания | Направление | Период |
+| --- | --- | --- | --- |
+| **Инженер-программист** | **АО «НПО «Прибор»** | **Встраиваемые системы, автоматизация испытательных стендов, промышленные интерфейсы** | **Май 2024 — настоящее время** |
 
-## About
-- **7+ years** of project experience in embedded/automation, **1+ year** in industry  
-- MCU: **STM32 / AVR** • Interfaces: **UART / I2C / SPI / 1‑Wire / CAN / RS‑232 / RS‑485 (Modbus)**  
-- Current goal: grow into **functional verification** of digital blocks / SoC on **SystemVerilog**
+### Образование 🎓
+- **Магистратура** — [Университет ИТМО](https://itmo.ru/) (2025 — настоящее время)
+- **Информатика и вычислительная техника** — [СПбПУ Петра Великого](https://www.spbstu.ru/) (2019–2025)
 
----
+### Проекты 🐾
+- [MIK32 RPS](https://github.com/DafterT/mik32-rps) — игра «Камень, ножницы, бумага» на микроконтроллере МИК32 с квантованной нейросетью INT8, RFID и хранением статистики в EEPROM.
+- [Modbus Promela](https://github.com/DafterT/modbus-promela) — модель протокола Modbus в Promela, автоматическая проверка 14 LTL-свойств с помощью SPIN.
+- [LTL Checker](https://github.com/DafterT/LTL-checker) — инструмент проверки формул темпоральной логики на последовательностях событий с генерацией моделей и отчётов.
 
-## Focus now
-- SystemVerilog verification: **testbenches → assertions (SVA) → coverage**
-- FPGA practice (GoWin / Intel Quartus) + “clean RTL”
-- RISC‑V curiosity (microarchitecture + tooling)
+### Публикации 📚
+- Шереметьев А. К., Котов К. А., Симоновский Д. Л. **Разработка программного и аппаратного обеспечения для организации графического вывода на FPGA на базе PicoRV** // *Высокопроизводительные вычислительные системы и технологии*. — 2025. — Т. 9, № 2. — С. 33–37.
+- Симоновский Д. Л. **[Разработка программного обеспечения для системы управления стендом испытательным гидробарическим](https://doi.org/10.18720/SPBPU/3/2025/vr/vr25-2983)** // *Выпускная квалификационная работа бакалавра. Санкт-Петербургский политехнический университет Петра Великого*. — 2025. — DOI: [10.18720/SPBPU/3/2025/vr/vr25-2983](https://doi.org/10.18720/SPBPU/3/2025/vr/vr25-2983).
 
----
+### Статистика GitHub ⭐
 
-## Selected repositories
-
-- **Verilog / SystemVerilog labs:** `Verilog_labs`
-- **RISC‑V core exploration (fork):** `lab_scr1`
-- **SV practice (fork):** `systemverilog-homework`
-- **Python async API wrapper:** `ApiSpbStuRuz`
-- **Tooling + tests + CI:** `GPSS_modifier`
-- **Parsing / dev tooling experiments:** `parsing_grammar`
-
-
-## GitHub stats
-</div>
-
-<div align="center">
-
-<!-- streak -->
-<img alt="GitHub streak" src="https://streak-stats.demolab.com/?user=DafterT&hide_border=true">
-
-</div>
-
-
-
-## Experience (short)
-**AO “NPO Pribor” — Embedded/Automation Developer (May 2024 – present)**  
-- Refactored & stabilized C# software for a test stand (robust error handling, maintainability)
-- Built software for a **hydrobaric test stand** with **OVEN PLC** (control / data acquisition / integration)
-- Debugged and integrated field buses and device comms (UART/RS‑485 Modbus/I2C/SPI/1‑Wire/CAN)
-
-**Freelance / project work (2019 – present)**  
-Automation projects: sequencing, sensor integration, operator UI, telemetry.
-
-## Teaching
-Taught informatics / competitive programming basics (SPbPU courses). I enjoy explaining complex things clearly.
-
-
-## Contact
-- Email: **niil2003@mail.ru**
+[![Статистика GitHub](https://github-readme-stats.vercel.app/api?username=DafterT&show_icons=true&theme=github_dark&hide_border=true&hide_rank=true&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
